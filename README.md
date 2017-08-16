@@ -10,6 +10,13 @@
     "workbench.iconTheme": "material-icon-theme",
     "editor.cursorStyle": "line-thin",
     "editor.renderWhitespace": "all",
+    "window.zoomLevel": 0,
+    "emmet.showAbbreviationSuggestions": true,
+    "emmet.showExpandedAbbreviation": "always",
+    "emmet.includeLanguages": {
+            "vue-html": "html",
+            "vue": "html"
+    }
 }
 ```
 
