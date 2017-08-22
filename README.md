@@ -14,9 +14,10 @@
     "emmet.showAbbreviationSuggestions": true,
     "emmet.showExpandedAbbreviation": "always",
     "emmet.includeLanguages": {
-            "vue-html": "html",
-            "vue": "html"
-    }
+        "vue-html": "html",
+        "vue": "html"
+    },
+    "files.trimTrailingWhitespace": true,
 }
 ```
 
