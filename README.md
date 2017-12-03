@@ -17,7 +17,26 @@
         "vue-html": "html",
         "vue": "html"
     },
+    "fileheader.Author": "William.Chan",
+    "fileheader.tpl": "/*\n * @Author: {author} \n * @Date: {createTime} \n * @Last Modified by:   {lastModifiedBy} \n * @Last Modified time: {updateTime} \n */\n",
+    "fileheader.LastModifiedBy": "William.Chan",
     "files.trimTrailingWhitespace": true,
+    "files.associations": {
+        "*.wpy": "vue"
+    },
+    "gitlens.gitExplorer.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressUpdateNotice": false,
+        "suppressWelcomeNotice": true
+    },
+    "php-docblocker.useShortNames": true
 }
 ```
 
